@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [discord-clone](https://github.com/subodhthakur001/discord-clone)
 
-- 🌱 I’m currently learning **ReactJS, NextJS, Kubernetes, Docker, vueJs**
+- 🌱 I’m currently learning **SpringBoot, SpringWebFlux**
 
 - 📝 I regularly write articles on [https://medium.com/@subodh.thakur9166](https://medium.com/@subodh.thakur9166)
 
