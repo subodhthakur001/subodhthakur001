@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mrnullpointer11" target="blank"><img src="https://img.shields.io/twitter/follow/mrnullpointer11?logo=twitter&style=for-the-badge" alt="mrnullpointer11" /></a> </p>
 
-- 🔭 I’m currently working on [discord-clone](https://github.com/subodhthakur001/discord-clone)
+- 🔭 I’m currently working on [progressify](https://github.com/subodhthakur001/Progressify)
 
 - 🌱 I’m currently learning **SpringBoot, SpringWebFlux**
 
