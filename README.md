@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subodh Thakur</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<h3 align="center">Starting projects is my superpower.finishing them is my kryptonite</h3>
+<h3 align="center">Starting projects is my superpower, Finishing them is my kryptonite</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subodhthakur001&label=Profile%20views&color=0e75b6&style=flat" alt="subodhthakur001" /> </p>
 
